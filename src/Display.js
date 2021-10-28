@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios';
-const url="http://localhost:3000/users"
+//const url="http://localhost:3000/users"
+const uri = "https://reactassignment-chandu.herokuapp.com/users"
 export class Display extends Component {
     constructor(props) {
         super(props)
