@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "SIVA SANKAR MITTIREDDY",
+      "email": "siva@gmail.com",
+      "phone": "8096735442",
+      "Company": "IBM",
+      "website": "ibm.com",
+      "Address": "Kulas Light, Apt. 556, Gwenborough, 92998-3874",
+      "img": "images/image2.jpg"
+    },
+
+    {
+      "id": 2,
+      "name": "SRAVAN KUMAR THATI",
+      "email": "sravan@gmail.com",
+      "phone": " 809654782",
+      "Company": "TCS",
+      "website": "tcs.org",
+      "Address": "Victor Plains, Suite 879, Wisokyburgh, 90566-7771",
+      "img": "images/image3.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "MOHIT KATE",
+      "email": "mohit@gmail.com",
+      "phone": "  7658921547",
+      "Company": "WIPRO",
+      "website": " wipro.info",
+      "Address": "Douglas Extension, Suite 847, McKenziehaven, 59590-4157",
+      "img": "images/image4.jpg"
+    }
+  ]
+}
